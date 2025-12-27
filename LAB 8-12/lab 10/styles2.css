@@ -1,0 +1,23 @@
+
+.box {
+    border: 2px solid #000; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+#special-box {
+    background-color: #add8e6; 
+    border: 2px solid #000;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+}
+
+#main-text {
+    font-weight: bold;
+}

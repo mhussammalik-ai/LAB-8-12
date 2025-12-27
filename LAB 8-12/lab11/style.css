@@ -1,0 +1,27 @@
+.hero {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-overlay {
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    padding: 50px 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 30px 0;
+}
+footer a {
+    color: white;
+    margin: 0 10px;
+    font-size: 1.2rem;
+}

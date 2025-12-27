@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(188, 167, 141);
+}
+
+
+.hero {
+            background-image: url('./DesktopBanner.webp'); 
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+        }
+        .hero-overlay {
+            background-color: rgba(0,0,0,0.5); 
+            padding: 100px 20px;
+        }
+
+
+       
